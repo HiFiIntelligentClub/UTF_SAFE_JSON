@@ -1,6 +1,7 @@
 <?php
 function strMyJson($arr)
 	{
+	//toto if Object (array)Object
 	$str	='';
 	if(is_array($arr))
 		{
